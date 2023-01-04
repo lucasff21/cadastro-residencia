@@ -1,0 +1,10 @@
+package com.lucas.cadastro.model;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class Endereco {
+
+	private Long id;
+	private String nome;
+}

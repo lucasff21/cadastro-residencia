@@ -1,0 +1,36 @@
+package com.lucas.cadastro.controllers;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.lucas.cadastro.model.Endereco;
+import com.lucas.cadastro.service.EnderecoService;
+
+@RestController
+@RequestMapping("/api/enderecos")
+public class EnderecoController {
+
+	@Autowired
+	private EnderecoService enderecoServ;
+	
+	@GetMapping
+	public ResponseEntity<List<Endereco>> findAll(){
+		List<Endereco> endereco = enderecoServ.findAll();
+		return ResponseEntity.ok().body(endereco);
+	}
+	
+	@PostMapping
+	public ResponseEntity<Endereco> insert(@RequestBody Endereco endereco){
+		endereco = enderecoServ.save(endereco);
+		return ResponseEntity<Endereco>(endereco, HttpStatus.OK);
+	}
+	
+}
