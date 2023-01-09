@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario"/>
 			<item value="C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro"/>
 		</list>
 		<list key="projectNameTemplate">
