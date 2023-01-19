@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Lucas\Documents\Projeto\spring-boot-3-jwt-security-main"/>
+			<item value="C:\Users\Lucas\Documents\Projeto\lucascad"/>
 			<item value="C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario"/>
 			<item value="C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro"/>
 		</list>

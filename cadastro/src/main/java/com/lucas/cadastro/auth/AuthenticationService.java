@@ -2,8 +2,9 @@ package com.lucas.cadastro.auth;
 
 import com.lucas.cadastro.config.JwtService;
 import com.lucas.cadastro.enums.Role;
-import com.lucas.cadastro.model.Usuario;
-import com.lucas.cadastro.repository.UsuarioRepository;
+import com.lucas.cadastro.model.User;
+import com.lucas.cadastro.repository.UserRepository;
+
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
@@ -13,31 +14,36 @@ import org.springframework.stereotype.Service;
 @Service
 @RequiredArgsConstructor
 public class AuthenticationService {
-	private final UsuarioRepository repository;
-	private final PasswordEncoder passwordEncoder;
-	private final JwtService jwtService;
-	private final AuthenticationManager authenticationManager;
+  private final UserRepository repository;
+  private final PasswordEncoder passwordEncoder;
+  private final JwtService jwtService;
+  private final AuthenticationManager authenticationManager;
 
-	public AuthenticationResponse register(RegisterRequest request) {
-		var user = Usuario.builder()
-				.username(request.getUsername())
-				.password(passwordEncoder.encode(request.getPassword()))
-				.role(Role.ROLE_USER)
-				.build();
-		repository.save(user);
-		var jwtToken = jwtService.generateToken(user);
-		return AuthenticationResponse.builder().token(jwtToken).build();
-	}
+  public AuthenticationResponse register(RegisterRequest request) {
+    var user = User.builder()
+        .email(request.getEmail())
+        .password(passwordEncoder.encode(request.getPassword()))
+        .role(Role.USER)
+        .build();
+    repository.save(user);
+    var jwtToken = jwtService.generateToken(user);
+    return AuthenticationResponse.builder()
+        .token(jwtToken)
+        .build();
+  }
 
-	 public AuthenticationResponse authenticate(AuthenticationRequest request) {
-		    authenticationManager.authenticate(
-		        new UsernamePasswordAuthenticationToken(
-		            request.getUsername(),
-		            request.getPassword()
-		        )
-		    );
-		    var user = repository.findUserByUsername(request.getUsername()).orElseThrow();
-		    var jwtToken = jwtService.generateToken(user);
-		    return AuthenticationResponse.builder().token(jwtToken).build();
-		  }
+  public AuthenticationResponse authenticate(AuthenticationRequest request) {
+    authenticationManager.authenticate(
+        new UsernamePasswordAuthenticationToken(
+            request.getEmail(),
+            request.getPassword()
+        )
+    );
+    var user = repository.findByEmail(request.getEmail())
+        .orElseThrow();
+    var jwtToken = jwtService.generateToken(user);
+    return AuthenticationResponse.builder()
+        .token(jwtToken)
+        .build();
+  }
 }
