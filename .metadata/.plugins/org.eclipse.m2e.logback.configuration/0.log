@@ -195,3 +195,984 @@
 2023-01-04 17:12:09,827 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-01-04 17:12:09,833 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-01-04 17:12:09,836 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario\src\test\resources
+2023-01-09 14:27:29,992 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-09 14:49:09,463 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-09 14:49:10,587 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.0.1/spring-boot-starter-security-3.0.1.pom
+2023-01-09 14:49:10,817 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.0.1/spring-boot-starter-security-3.0.1.pom
+2023-01-09 14:49:10,937 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.0.1/spring-security-config-6.0.1.pom
+2023-01-09 14:49:11,073 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.0.1/spring-security-config-6.0.1.pom
+2023-01-09 14:49:11,192 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.0.1/spring-security-core-6.0.1.pom
+2023-01-09 14:49:11,324 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.0.1/spring-security-core-6.0.1.pom
+2023-01-09 14:49:11,443 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.0.1/spring-security-crypto-6.0.1.pom
+2023-01-09 14:49:11,572 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.0.1/spring-security-crypto-6.0.1.pom
+2023-01-09 14:49:11,690 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.0.1/spring-security-web-6.0.1.pom
+2023-01-09 14:49:11,827 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.0.1/spring-security-web-6.0.1.pom
+2023-01-09 14:49:11,948 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.0.1/spring-security-test-6.0.1.pom
+2023-01-09 14:49:12,089 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.0.1/spring-security-test-6.0.1.pom
+2023-01-09 14:49:12,238 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.0.1/spring-boot-starter-security-3.0.1.jar
+2023-01-09 14:49:12,343 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.0.1/spring-security-web-6.0.1.jar
+2023-01-09 14:49:12,344 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.0.1/spring-security-config-6.0.1.jar
+2023-01-09 14:49:12,398 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.0.1/spring-security-test-6.0.1.jar
+2023-01-09 14:49:12,398 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.0.1/spring-security-core-6.0.1.jar
+2023-01-09 14:49:12,497 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.0.1/spring-boot-starter-security-3.0.1.jar
+2023-01-09 14:49:12,697 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.0.1/spring-security-crypto-6.0.1.jar
+2023-01-09 14:49:12,978 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.0.1/spring-security-test-6.0.1.jar
+2023-01-09 14:49:13,059 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.0.1/spring-security-crypto-6.0.1.jar
+2023-01-09 14:49:13,110 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.0.1/spring-security-core-6.0.1.jar
+2023-01-09 14:49:13,157 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.0.1/spring-security-web-6.0.1.jar
+2023-01-09 14:49:13,222 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.0.1/spring-security-config-6.0.1.jar
+2023-01-09 14:49:14,142 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 14:49:14,160 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 14:49:14,165 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 14:49:15,179 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-09 14:49:15,332 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.0.1/spring-boot-starter-security-3.0.1-sources.jar
+2023-01-09 14:49:15,508 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-09 14:49:15,587 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.0.1/spring-boot-starter-security-3.0.1-sources.jar
+2023-01-09 14:49:15,598 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:3.0.1
+2023-01-09 14:49:16,156 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cadastro/src/main/java
+2023-01-09 14:49:16,156 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cadastro/src/main/resources
+2023-01-09 14:49:16,157 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cadastro/src/main/resources
+2023-01-09 14:49:16,158 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cadastro/src/test/java
+2023-01-09 14:49:16,367 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.0.1/spring-security-config-6.0.1-sources.jar
+2023-01-09 14:49:16,542 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-01-09 14:49:17,114 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.0.1/spring-security-config-6.0.1-sources.jar
+2023-01-09 14:49:17,119 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:6.0.1
+2023-01-09 14:49:17,173 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 14:49:17,213 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 14:49:17,228 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 14:49:17,605 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.0.1/spring-security-web-6.0.1-sources.jar
+2023-01-09 14:49:18,229 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.0.1/spring-security-web-6.0.1-sources.jar
+2023-01-09 14:49:18,236 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:6.0.1
+2023-01-09 14:49:18,696 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.0.1/spring-security-test-6.0.1-sources.jar
+2023-01-09 14:49:18,945 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.0.1/spring-security-test-6.0.1-sources.jar
+2023-01-09 14:49:18,948 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-test:6.0.1
+2023-01-09 14:49:19,432 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.0.1/spring-security-core-6.0.1-sources.jar
+2023-01-09 14:49:19,978 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.0.1/spring-security-core-6.0.1-sources.jar
+2023-01-09 14:49:19,980 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:6.0.1
+2023-01-09 14:49:20,439 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.0.1/spring-security-crypto-6.0.1-sources.jar
+2023-01-09 14:49:20,708 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.0.1/spring-security-crypto-6.0.1-sources.jar
+2023-01-09 14:49:20,711 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:6.0.1
+2023-01-09 14:49:21,084 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 14:49:21,085 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 14:49:21,090 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 14:55:46,142 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-09 14:55:46,510 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 14:55:46,511 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 14:55:46,515 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 14:55:48,126 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 14:55:48,138 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 14:55:48,143 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:02:32,257 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:02:32,264 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 15:02:32,267 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:04:19,519 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:04:19,526 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:04:19,529 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:04:36,116 [Worker-36: Launching cadastro - CadastroApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:04:36,122 [Worker-36: Launching cadastro - CadastroApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 15:04:36,125 [Worker-36: Launching cadastro - CadastroApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:06:43,322 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:06:43,327 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 15:06:43,330 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:07:06,156 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:07:06,167 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:07:06,169 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:09:27,620 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:09:27,626 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 15:09:27,629 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:09:52,891 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:09:52,896 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 15:09:52,898 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:14:32,504 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-09 15:14:32,869 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 15:14:32,870 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 15:14:32,873 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:14:34,212 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-09 15:14:34,434 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-09 15:14:34,750 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cadastro/src/main/java
+2023-01-09 15:14:34,751 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cadastro/src/main/resources
+2023-01-09 15:14:34,751 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cadastro/src/main/resources
+2023-01-09 15:14:34,751 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cadastro/src/test/java
+2023-01-09 15:14:34,992 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-01-09 15:14:35,201 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:14:35,217 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:14:35,224 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:19:31,554 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:19:31,560 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 15:19:31,562 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:21:58,908 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-09 15:21:59,251 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 15:21:59,251 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 15:21:59,255 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:22:00,519 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:22:00,533 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:22:00,538 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:22:02,895 [Worker-50: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-09 15:22:03,215 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 15:22:03,216 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-09 15:22:03,218 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 15:51:54,293 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:51:54,346 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 15:51:54,349 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:08:53,933 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:08:53,963 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:08:53,965 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:09:10,729 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:09:10,771 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:09:10,774 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:32:34,075 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:32:34,083 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:32:34,086 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:32:44,020 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:32:44,028 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:32:44,032 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:34:41,130 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:34:41,137 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:34:41,139 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:35:02,766 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:35:02,771 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:35:02,775 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:44:15,906 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:44:15,913 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:44:15,917 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:44:23,220 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:44:23,228 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:44:23,231 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:45:04,884 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:45:04,891 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:45:04,916 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:45:15,903 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:45:15,910 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:45:15,913 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:45:22,409 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:45:22,415 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:45:22,417 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:45:23,503 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:45:23,508 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:45:23,511 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:46:52,801 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:46:52,806 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:46:52,808 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:49:15,345 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:49:15,353 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:49:15,357 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:49:39,572 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:49:39,578 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:49:39,580 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 16:57:40,525 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:57:40,532 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 16:57:40,535 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:03:05,710 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:03:05,716 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:03:05,719 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:03:35,967 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:03:35,973 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:03:35,975 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:04:18,762 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:04:18,769 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:04:18,771 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:08:18,613 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:08:18,619 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:08:18,622 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:08:22,268 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:08:22,274 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:08:22,276 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:10:01,340 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:10:01,346 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:10:01,348 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:11:02,331 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:11:02,337 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:11:02,339 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:11:13,769 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:11:13,775 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:11:13,778 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:13:08,742 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:13:08,748 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:13:08,750 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:13:12,071 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:13:12,077 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:13:12,079 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:14:48,494 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:14:48,500 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:14:48,502 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:16:19,303 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:16:19,309 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:16:19,312 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:17:28,335 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:17:28,341 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:17:28,345 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:22:14,058 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:22:14,065 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:22:14,068 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:29:59,656 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:29:59,672 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:29:59,676 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:30:12,312 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:30:12,323 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:30:12,326 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:33:31,037 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:33:31,044 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:33:31,047 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:34:11,304 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:34:11,310 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:34:11,313 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:34:54,563 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:34:54,573 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:34:54,576 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:35:30,387 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:35:30,396 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:35:30,399 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:35:45,670 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:35:45,676 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:35:45,679 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:36:54,439 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:36:54,450 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:36:54,453 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:44:04,588 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:44:04,594 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:44:04,597 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:45:43,566 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:45:43,574 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:45:43,576 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:46:14,131 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:46:14,137 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:46:14,139 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:47:59,376 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:47:59,382 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:47:59,384 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:49:37,355 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:49:37,361 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:49:37,363 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:50:03,184 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:50:03,190 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:50:03,193 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:52:36,443 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:52:36,459 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:52:36,461 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:53:10,220 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:53:10,232 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:53:10,235 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:53:18,546 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:53:18,552 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:53:18,554 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:54:36,217 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:54:36,223 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:54:36,226 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:54:46,390 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:54:46,395 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:54:46,397 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:54:58,873 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:54:58,878 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:54:58,881 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:55:18,280 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:55:18,287 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:55:18,289 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:55:33,480 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:55:33,486 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:55:33,489 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:56:47,057 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:56:47,062 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:56:47,065 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:57:10,497 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:57:10,502 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:57:10,504 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:57:29,397 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:57:29,426 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:57:29,429 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:58:14,900 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:58:14,906 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:58:14,908 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:58:21,682 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:58:21,689 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:58:21,691 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 17:59:45,313 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:59:45,320 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 17:59:45,322 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 18:00:35,025 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:00:35,030 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:00:35,032 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 18:00:41,006 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:00:41,011 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:00:41,014 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 18:00:48,549 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:00:48,554 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:00:48,556 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 18:05:51,839 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:05:51,846 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:05:51,850 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 18:05:57,953 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:05:57,960 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 18:05:57,962 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-09 19:24:10,697 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:24:10,722 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-09 19:24:10,901 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 15:23:06,600 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-11 17:19:44,367 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:19:44,391 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:19:44,399 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:19:49,769 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:19:49,779 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:19:49,784 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:25:54,368 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:25:54,376 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:25:54,379 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:31:25,676 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-11 17:31:27,099 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24.pom
+2023-01-11 17:31:27,363 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24.pom
+2023-01-11 17:31:27,521 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar
+2023-01-11 17:31:28,589 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar
+2023-01-11 17:31:28,905 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:31:28,906 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:31:28,910 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:31:29,439 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-11 17:31:29,756 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-11 17:31:30,383 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cadastro/src/main/java
+2023-01-11 17:31:30,384 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cadastro/src/main/resources
+2023-01-11 17:31:30,384 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cadastro/src/main/resources
+2023-01-11 17:31:30,384 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cadastro/src/test/java
+2023-01-11 17:31:30,637 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2023-01-11 17:31:30,912 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-01-11 17:31:31,509 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:31:31,519 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2023-01-11 17:31:31,523 [Worker-31: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.24
+2023-01-11 17:31:31,534 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:31:31,549 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:31:32,854 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:31:32,854 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:31:32,857 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:44:28,408 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:44:28,416 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:44:28,420 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:48:36,082 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:48:36,089 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:48:36,092 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:48:45,275 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:48:45,338 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:48:45,342 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:50:20,208 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:50:20,215 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:50:20,219 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:50:29,301 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:50:29,308 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:50:29,313 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:52:15,490 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-11 17:52:22,613 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-11 17:52:23,259 [Worker-41: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/jsonwebtoken/jjwt-api/0.11.5/jjwt-api-0.11.5.pom
+2023-01-11 17:52:23,524 [Worker-41: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/jsonwebtoken/jjwt-api/0.11.5/jjwt-api-0.11.5.pom
+2023-01-11 17:52:23,680 [Worker-41: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/jsonwebtoken/jjwt-api/0.11.5/jjwt-api-0.11.5.jar
+2023-01-11 17:52:23,993 [Worker-41: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/jsonwebtoken/jjwt-api/0.11.5/jjwt-api-0.11.5.jar
+2023-01-11 17:52:24,205 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:52:24,206 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:52:24,208 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:52:25,748 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:52:25,760 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:52:25,765 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:52:25,831 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/jsonwebtoken/jjwt-api/0.11.5/jjwt-api-0.11.5-sources.jar
+2023-01-11 17:52:26,231 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/jsonwebtoken/jjwt-api/0.11.5/jjwt-api-0.11.5-sources.jar
+2023-01-11 17:52:26,234 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.jsonwebtoken:jjwt-api:0.11.5
+2023-01-11 17:52:26,861 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:52:26,861 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:52:26,863 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:53:56,829 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-11 17:53:57,241 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:53:57,242 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:53:57,244 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:53:58,689 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/jsonwebtoken/jjwt-impl/0.11.5/jjwt-impl-0.11.5-sources.jar
+2023-01-11 17:53:58,790 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:53:58,805 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 17:53:58,809 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 17:53:58,981 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/jsonwebtoken/jjwt-impl/0.11.5/jjwt-impl-0.11.5-sources.jar
+2023-01-11 17:53:58,983 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.jsonwebtoken:jjwt-impl:0.11.5
+2023-01-11 17:53:59,491 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/jsonwebtoken/jjwt-jackson/0.11.5/jjwt-jackson-0.11.5-sources.jar
+2023-01-11 17:53:59,746 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/jsonwebtoken/jjwt-jackson/0.11.5/jjwt-jackson-0.11.5-sources.jar
+2023-01-11 17:53:59,748 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.jsonwebtoken:jjwt-jackson:0.11.5
+2023-01-11 17:54:00,054 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:54:00,054 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:54:00,056 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 18:13:00,138 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 18:13:00,144 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 18:13:00,147 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 18:15:34,622 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 18:15:34,627 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 18:15:34,630 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 18:17:34,087 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 18:17:34,096 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 18:17:34,098 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 18:22:01,379 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 18:22:01,387 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 18:22:01,389 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 18:24:46,077 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 18:24:46,086 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 18:24:46,092 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-11 18:24:47,830 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 18:24:47,836 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 18:24:47,839 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 12:03:04,496 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-16 14:24:40,472 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-16 14:36:48,546 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:36:48,562 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 14:36:48,566 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario\src\test\resources
+2023-01-16 14:36:49,990 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:36:50,000 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:36:50,010 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 14:44:43,699 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:44:43,708 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:44:43,712 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 14:51:54,516 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:51:54,523 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:51:54,526 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 14:52:44,183 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:52:44,193 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:52:44,197 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 14:54:36,374 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:54:36,381 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:54:36,386 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 14:54:42,033 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:54:42,039 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:54:42,042 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 14:57:45,738 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:57:45,744 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:57:45,750 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 14:57:59,746 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:57:59,752 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:57:59,755 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 14:58:13,005 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:58:13,012 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:58:13,016 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 14:58:38,726 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:58:38,732 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:58:38,735 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 14:59:17,668 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:59:17,674 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 14:59:17,678 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:01:12,952 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:01:12,964 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:01:12,967 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:01:18,764 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:01:18,772 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:01:18,775 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:02:30,815 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:02:30,825 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:02:30,828 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:02:48,351 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:02:48,356 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:02:48,359 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:02:56,971 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:02:56,980 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:02:56,984 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:04:00,612 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:04:00,618 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:04:00,621 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:04:37,191 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:04:37,199 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:04:37,202 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:10:09,158 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:10:09,164 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:10:09,168 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:11:23,106 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:11:23,113 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:11:23,116 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:11:36,394 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:11:36,400 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:11:36,403 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:11:39,503 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:11:39,519 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:11:39,523 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:11:48,557 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:11:48,564 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:11:48,568 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:11:54,448 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:11:54,454 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:11:54,457 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:15:29,400 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:15:29,437 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:15:29,440 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:15:42,757 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:15:42,763 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:15:42,767 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:15:51,559 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:15:51,565 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:15:51,568 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:15:53,700 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:15:53,706 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:15:53,709 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:22:21,012 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:22:21,021 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:22:21,025 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:22:52,881 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:22:52,887 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:22:52,890 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:22:55,694 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:22:55,701 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:22:55,705 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:32:43,413 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:32:43,419 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:32:43,422 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:32:50,064 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:32:50,071 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:32:50,074 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:48:02,285 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:48:02,294 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:48:02,298 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:48:27,804 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:48:27,810 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:48:27,813 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:48:44,669 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:48:44,676 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:48:44,680 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:49:49,951 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:49:49,958 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:49:49,963 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:50:00,013 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:50:00,018 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:50:00,020 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:50:09,448 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:50:09,455 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:50:09,459 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:50:23,495 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:50:23,501 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:50:23,504 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:50:29,318 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:50:29,323 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:50:29,326 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:50:53,115 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:50:53,121 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:50:53,124 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:51:05,193 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:51:05,201 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:51:05,204 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:51:12,988 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:51:12,993 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:51:12,996 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:52:22,127 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:52:22,134 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:52:22,137 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-16 20:53:28,571 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:53:28,581 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 20:53:28,584 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:20:57,242 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-18 17:22:28,672 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:22:28,697 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:22:28,704 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:36:07,602 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:36:07,610 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:36:07,614 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:36:12,153 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:36:12,158 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:36:12,162 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:40:36,719 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-18 17:40:37,193 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 17:40:37,193 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 17:40:37,196 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:40:38,665 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:40:38,680 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:40:38,690 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:40:47,117 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:40:47,127 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:40:47,131 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:41:06,006 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-18 17:41:53,645 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-18 17:41:54,224 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:41:54,242 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:41:54,248 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:41:56,026 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1-sources.jar
+2023-01-18 17:41:56,155 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:41:56,168 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:41:56,174 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:41:56,413 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1-sources.jar
+2023-01-18 17:41:56,417 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.10.1
+2023-01-18 17:41:57,249 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 17:41:57,249 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 17:41:57,252 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:42:17,150 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:42:17,157 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:42:17,162 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:48:46,305 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-18 17:49:03,679 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:49:03,697 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 17:49:03,702 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario\src\test\resources
+2023-01-18 17:49:04,336 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:49:04,339 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:49:04,344 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:52:11,868 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:52:11,897 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:52:11,904 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:54:00,649 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:54:00,655 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:54:00,658 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:54:59,856 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:54:59,865 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:54:59,870 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 17:55:28,519 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:55:28,526 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 17:55:28,530 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:06:26,508 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:06:26,515 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:06:26,518 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:06:33,498 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:06:33,507 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:06:33,512 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:08:00,932 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:08:00,937 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:08:00,941 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:08:27,645 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:08:27,651 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:08:27,654 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:09:15,233 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:09:15,239 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:09:15,242 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:12:12,665 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:12:12,672 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:12:12,675 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:13:52,478 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:13:52,483 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:13:52,486 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:14:36,975 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-18 18:16:07,950 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:16:07,972 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:16:07,979 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:16:42,035 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:16:42,042 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:16:42,048 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:17:01,468 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:17:01,476 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:17:01,481 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:17:06,366 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:17:06,373 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:17:06,377 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:18:09,852 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:18:09,860 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:18:09,864 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:18:52,147 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:18:52,154 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:18:52,157 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:19:05,977 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:19:06,007 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:19:06,011 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:19:25,953 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:19:25,959 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:19:25,963 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:19:37,346 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:19:37,352 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:19:37,356 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:20:36,215 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:20:36,221 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:20:36,225 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:20:48,432 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:20:48,438 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:20:48,441 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:20:52,147 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:20:52,153 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:20:52,157 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:23:14,440 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:23:14,446 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:23:14,449 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:23:50,058 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:23:50,066 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 18:23:50,069 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario\src\test\resources
+2023-01-18 18:23:50,326 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:23:50,328 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:23:50,335 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:25:19,117 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:25:19,125 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:25:19,129 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:25:31,769 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:25:31,776 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:25:31,779 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:25:40,171 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:25:40,177 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:25:40,180 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:25:58,934 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:25:58,993 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:25:58,997 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:26:01,576 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:26:01,584 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:26:01,588 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:27:19,353 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:27:19,360 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:27:19,365 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:27:24,387 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:27:24,393 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:27:24,397 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:27:30,618 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:27:30,619 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 18:27:30,622 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario\src\test\resources
+2023-01-18 18:27:30,789 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:27:30,791 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:27:30,794 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:27:42,843 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-18 18:27:43,380 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-18 18:27:43,559 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cad-usuario:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario\pom.xml.
+2023-01-18 18:27:44,138 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cadastro/src/main/java
+2023-01-18 18:27:44,138 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cadastro/src/main/resources
+2023-01-18 18:27:44,139 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cadastro/src/main/resources
+2023-01-18 18:27:44,139 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cadastro/src/test/java
+2023-01-18 18:27:44,498 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-01-18 18:27:44,634 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 18:27:44,634 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 18:27:44,638 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario\src\test\resources
+2023-01-18 18:27:44,862 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:27:44,879 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:27:44,883 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:28:00,658 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:28:00,666 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:28:00,670 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:30:25,695 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:30:25,701 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:30:25,704 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:30:53,803 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:30:53,810 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:30:53,813 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:31:01,109 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:31:01,115 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:31:01,118 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:31:19,174 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:31:19,180 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:31:19,183 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:31:22,654 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:31:22,660 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:31:22,664 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:31:26,400 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:31:26,401 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 18:31:26,403 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario\src\test\resources
+2023-01-18 18:31:26,556 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:31:26,557 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:31:26,561 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:32:44,349 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:32:44,355 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:32:44,358 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:33:19,317 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:33:19,325 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:33:19,329 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:35:38,698 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:35:38,704 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:35:38,707 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:35:56,848 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:35:56,849 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 18:35:56,852 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario\src\test\resources
+2023-01-18 18:35:56,989 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:35:56,990 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:35:56,994 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:35:59,825 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:35:59,832 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:35:59,838 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:37:06,586 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-18 18:37:53,486 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:37:53,516 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:37:53,522 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:38:10,276 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:38:10,283 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:38:10,288 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:38:22,770 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:38:22,777 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:38:22,780 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:38:24,884 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:38:24,895 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:38:24,899 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:38:25,946 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:38:25,952 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:38:25,960 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:38:50,529 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:38:50,535 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:38:50,539 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:39:09,503 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:39:09,510 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:39:09,521 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:41:52,504 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:41:52,536 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:41:52,540 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:42:16,136 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:42:16,142 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:42:16,146 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:43:10,005 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:43:10,013 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 18:43:10,016 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario\src\test\resources
+2023-01-18 18:43:10,298 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:43:10,300 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:43:10,307 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:47:04,532 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:47:04,539 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:47:04,542 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 18:49:13,323 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:49:13,330 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:49:13,334 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:11:05,506 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-18 19:14:07,254 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:14:07,280 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:14:07,285 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:14:26,869 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:14:26,875 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:14:26,879 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:14:28,705 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:14:28,727 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:14:28,731 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:14:35,030 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:14:35,036 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:14:35,039 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:14:41,437 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:14:41,442 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:14:41,445 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:14:49,873 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:14:49,879 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:14:49,882 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:17:22,520 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:17:22,526 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:17:22,529 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:17:32,621 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:17:32,629 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:17:32,635 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:17:46,937 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:17:46,942 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:17:46,945 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:19:53,600 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:19:53,608 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:19:53,612 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:20:57,675 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:20:57,681 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:20:57,684 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:29:58,206 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:29:58,214 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:29:58,217 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:32:31,686 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:32:31,694 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:32:31,697 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:37:35,006 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:37:35,012 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:37:35,016 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:38:05,479 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:38:05,487 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:38:05,491 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:38:26,622 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:38:26,627 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:38:26,631 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:38:46,970 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:38:46,976 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:38:46,979 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:39:01,039 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:39:01,045 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:39:01,047 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:39:13,861 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:39:13,866 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:39:13,869 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:39:44,105 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:39:44,111 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:39:44,113 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:40:01,116 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:40:01,121 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:40:01,124 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:40:06,614 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:40:06,619 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:40:06,622 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:40:09,721 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:40:09,726 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:40:09,729 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:41:04,542 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:41:04,547 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:41:04,550 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:41:38,799 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-18 19:41:40,007 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-18 19:41:40,454 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cadastro/src/main/java
+2023-01-18 19:41:40,454 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cadastro/src/main/resources
+2023-01-18 19:41:40,455 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cadastro/src/main/resources
+2023-01-18 19:41:40,455 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cadastro/src/test/java
+2023-01-18 19:41:40,843 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-01-18 19:41:41,256 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:41:41,273 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:41:41,316 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:43:23,875 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:43:23,877 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:43:23,882 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:43:49,871 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:43:49,877 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:43:49,879 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:43:56,817 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:43:56,823 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:43:56,825 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:44:30,825 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:44:30,831 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:44:30,834 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:45:46,978 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:45:46,985 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:45:46,989 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:45:57,066 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:45:57,071 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:45:57,074 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:46:07,726 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:46:07,773 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:46:07,796 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:46:50,979 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:46:50,984 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:46:50,987 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:46:53,545 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:46:53,550 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:46:53,553 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:46:55,832 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:46:55,838 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:46:55,842 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 19:47:05,314 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:47:05,319 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:47:05,321 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:03:24,449 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:03:24,456 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:03:24,459 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:03:29,786 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:03:29,794 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:03:29,796 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:03:35,942 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:03:35,948 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:03:35,951 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:03:58,840 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas:cadastro:0.0.1-SNAPSHOT @ C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\pom.xml.
+2023-01-18 20:03:59,255 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 20:03:59,255 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 20:03:59,258 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:04:00,619 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:04:00,632 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:04:00,636 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:04:05,238 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:04:05,244 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:04:05,246 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:13:29,122 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:13:29,133 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 20:13:29,138 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cad-usuario\src\test\resources
+2023-01-18 20:15:42,039 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:15:42,047 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:15:42,050 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:15:48,232 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:15:48,242 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:15:48,245 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:16:36,170 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:16:36,176 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:16:36,179 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:19:20,907 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:19:20,913 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:19:20,916 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:21:40,828 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:21:40,835 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:21:40,838 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:23:13,599 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:23:13,604 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:23:13,607 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:23:28,817 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:23:28,822 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:23:28,825 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:24:11,064 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:24:11,069 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:24:11,072 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:24:23,133 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:24:23,138 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:24:23,141 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:24:40,736 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:24:40,741 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:24:40,743 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:24:45,430 [Worker-57: Launching cadastro - CadastroApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:24:45,444 [Worker-57: Launching cadastro - CadastroApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:24:45,449 [Worker-57: Launching cadastro - CadastroApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:29:41,900 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:29:41,909 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:29:41,913 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:30:01,106 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:30:01,112 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:30:01,114 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources
+2023-01-18 20:32:29,837 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:32:29,843 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:32:29,845 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Lucas\Documents\Projeto\Resid Cadastro\cadastro\src\test\resources

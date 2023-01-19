@@ -20,7 +20,7 @@ import com.lucas.cadastro.model.Endereco;
 import com.lucas.cadastro.service.EnderecoService;
 
 @RestController
-@RequestMapping("/api/enderecos")
+@RequestMapping("/api/v1/enderecos")
 public class EnderecoController {
 
 	@Autowired
