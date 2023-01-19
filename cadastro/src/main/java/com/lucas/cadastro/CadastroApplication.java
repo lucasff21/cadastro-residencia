@@ -1,33 +1,16 @@
 package com.lucas.cadastro;
 
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
-import com.lucas.cadastro.model.Endereco;
-import com.lucas.cadastro.repository.EnderecoRepository;
 
 @SpringBootApplication
 public class CadastroApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CadastroApplication.class, args);
+		System.out.println(new BCryptPasswordEncoder().encode("123"));
 	}
 
-	/*
-	@Bean	
-	CommandLineRunner initDatabase(EnderecoRepository enderecoRepository) {
-
-		return args -> {
-			enderecoRepository.deleteAll();
-		
-			Endereco e = new Endereco();
-			e.setNome("Testando Angular com spring");
-			
-			
-			enderecoRepository.save(e);
-		};
-	}
-	*/
 }
